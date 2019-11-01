@@ -31,7 +31,7 @@
     "mysql": "^2.16.0",
     "mysql2": "^1.6.5",
     "nodemon": "^1.19.0",
-    "sequelize": "^4.42.1",
+    "sequelize": "^5.15.1",
     "shortid": "^2.2.14",
     "valid-url": "^1.0.9"
   }
